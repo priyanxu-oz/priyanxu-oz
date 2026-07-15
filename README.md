@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,5&height=220&section=header&text=Priyanshu%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20CS%20Engineering%20Student%20%40%20IIT%20Patna&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,100:C7B8EA&height=220&section=header&text=Priyanshu%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20CS%20Engineering%20Student%20%40%20IIT%20Patna&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=40C463&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Enthusiast;Full+Stack+%26+Product+Engineering;Building+with+Python+%2C+Java+%26+JavaScript;IIT+Patna+%7C+Bokaro%2C+Jharkhand" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B5A8DE&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Enthusiast;Full+Stack+%26+Product+Engineering;Building+with+Python+%2C+Java+%26+JavaScript;IIT+Patna+%7C+Bokaro%2C+Jharkhand" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![IIT Patna](https://img.shields.io/badge/IIT_Patna-AI%2FCS-216E39?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Bokaro%2C_Jharkhand-0D4429?style=for-the-badge&logo=googlemaps&logoColor=white)
+![IIT Patna](https://img.shields.io/badge/IIT_Patna-AI%2FCS-A8E6CF?style=for-the-badge&logo=googlescholar&logoColor=333333)
+![Location](https://img.shields.io/badge/Location-Bokaro%2C_Jharkhand-C7B8EA?style=for-the-badge&logo=googlemaps&logoColor=333333)
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanxu-oz&color=216E39&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/priyanxu-oz?style=for-the-badge&color=216E39&labelColor=0D2818)](https://github.com/priyanxu-oz?tab=followers)
-[![Stars](https://img.shields.io/github/stars/priyanxu-oz?style=for-the-badge&color=30A14E&labelColor=0D2818)](https://github.com/priyanxu-oz?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=priyanxu-oz&color=B5A8DE&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/priyanxu-oz?style=for-the-badge&color=A8E6CF&labelColor=2A2438&logoColor=333333)](https://github.com/priyanxu-oz?tab=followers)
+[![Stars](https://img.shields.io/github/stars/priyanxu-oz?style=for-the-badge&color=C7B8EA&labelColor=2A2438&logoColor=333333)](https://github.com/priyanxu-oz?tab=repositories)
 
 </div>
 
@@ -47,14 +47,14 @@ I'm an engineering student at **IIT Patna**, pursuing a path in **AI & Computer 
 
 **Languages**
 <br/>
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=40C463)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=40C463)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=40C463)
+![Python](https://img.shields.io/badge/Python-2A2438?style=flat-square&logo=python&logoColor=A8E6CF)
+![Java](https://img.shields.io/badge/Java-2A2438?style=flat-square&logo=openjdk&logoColor=A8E6CF)
+![JavaScript](https://img.shields.io/badge/JavaScript-2A2438?style=flat-square&logo=javascript&logoColor=A8E6CF)
 
 **Design**
 <br/>
-![Canva](https://img.shields.io/badge/Canva-0D1117?style=flat-square&logo=canva&logoColor=40C463)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-0D1117?style=flat-square&logo=figma&logoColor=40C463)
+![Canva](https://img.shields.io/badge/Canva-2A2438?style=flat-square&logo=canva&logoColor=C7B8EA)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-2A2438?style=flat-square&logo=figma&logoColor=C7B8EA)
 
 </div>
 
@@ -65,8 +65,8 @@ I'm an engineering student at **IIT Patna**, pursuing a path in **AI & Computer 
 | Domain | Proficiency | Details |
 |---|---|---|
 | Python for AI/ML | 🟢🟢🟢⚪⚪ | Core language for coursework & projects |
-| Applied AI Concepts | 🟢🟢⚪⚪⚪ | Actively learning through IIT Patna coursework |
-| UI/UX for AI Products | 🟢🟢🟢⚪⚪ | Designing interfaces with Canva & UI/UX principles |
+| Applied AI Concepts | 🟣🟣⚪⚪⚪ | Actively learning through IIT Patna coursework |
+| UI/UX for AI Products | 🟣🟣🟣⚪⚪ | Designing interfaces with Canva & UI/UX principles |
 
 <br/>
 
@@ -108,10 +108,10 @@ Short description of what the project does and the problem it solves.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanxu-oz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=40C463&icon_color=216E39&text_color=9BE9A8"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanxu-oz&hide_border=true&background=0D1117&ring=216E39&fire=40C463&currStreakLabel=9BE9A8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanxu-oz&show_icons=true&hide_border=true&bg_color=2A2438&title_color=C7B8EA&icon_color=A8E6CF&text_color=E8E3F0"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanxu-oz&hide_border=true&background=2A2438&ring=C7B8EA&fire=A8E6CF&currStreakLabel=E8E3F0"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanxu-oz&layout=compact&hide_border=true&bg_color=0D1117&title_color=40C463&text_color=9BE9A8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanxu-oz&layout=compact&hide_border=true&bg_color=2A2438&title_color=C7B8EA&text_color=E8E3F0"/>
 
 </div>
 
@@ -119,7 +119,7 @@ Short description of what the project does and the problem it solves.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=priyanxu-oz&theme=algolia&no-frame=true&margin-w=10&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=priyanxu-oz&theme=gruvbox&no-frame=true&margin-w=10&row=1&column=6)
 
 </div>
 
@@ -127,7 +127,7 @@ Short description of what the project does and the problem it solves.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanxu-oz&bg_color=0D1117&color=40C463&line=216E39&point=9BE9A8&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanxu-oz&bg_color=2A2438&color=C7B8EA&line=A8E6CF&point=E8E3F0&hide_border=true)
 
 </div>
 
@@ -167,6 +167,6 @@ open_to: ["Internships", "Collaborations", "Freelance UI/UX work"]
 
 *"Design with purpose, build with precision."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,5&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7B8EA,100:A8E6CF&height=120&section=footer" width="100%"/>
 
 </div>
